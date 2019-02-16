@@ -1,4 +1,4 @@
-# Measuring Team Meeting Happiness
+# Chuck Norris Wisdom - Python bot for Slack
 
 A quick and dirty Python application implementing a Slackbot that answers 'wisdom' commands and returns some wisdom from Chuck Norris.
 
